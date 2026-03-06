@@ -28,7 +28,7 @@ The dashboard helps answer key business questions:
 # 📈 Dashboard Pages
 
 ## 1️⃣ Overview Dashboard
-![Overview](Dashboard/Dashboard_.png)
+
 
 Provides a high-level snapshot of overall business performance.
 
@@ -38,97 +38,95 @@ Provides a high-level snapshot of overall business performance.
 - **Average Order Value:** ₹269  
 - **Average Rating:** 4.3  
 
-### Insights
-- Monthly revenue trend
-- Top cities driving orders
-- Veg vs Non-Veg sales distribution
-- Most popular food categories
+### Visualizations
+- Monthly Revenue Trend
+- Key Cities Driving Orders
+- Veg vs Non-Veg Sales Distribution
+- Most Popular Food Categories
+
+### Purpose
+Helps stakeholders quickly understand the **overall performance and key revenue drivers**.
 
 ---
 
-## 2️⃣ Revenue Trend & Executive Summary
+## 2️⃣ Summary Dashboard
 
-Focuses on **monthly revenue analysis and performance trends**.
+This page focuses on **revenue performance and executive insights**.
+
+### Visualizations
+- Monthly Revenue Trend (Jan–Aug 2025)
+- Key Business Takeaways
+- Sales Trend Summary
+- Executive Interpretation
 
 ### Key Insights
-- Total revenue of **₹53.01M across 8 months**
-- **Peak Months:** January & May
-- **Lowest Month:** February
-- Revenue trend remains **stable with mild growth**
+- Revenue remained **relatively stable with minor fluctuations**
+- **January and May recorded the highest revenue**
+- **February showed a temporary dip**
+- Performance improved again towards **July and August**
 
-### Included Visuals
-- Monthly revenue trend chart
-- Key business takeaways
-- Executive interpretation
+### Purpose
+Provides **business-level interpretation of sales performance** to support strategic decision-making.
 
 ---
 
-## 3️⃣ Location Performance Analysis
-![Location Performance](Dashboard/Location%20Performance.png)
+## 3️⃣ Category Performance Dashboard
 
-Analyzes **revenue contribution across top cities**.
+Analyzes **revenue contribution by food categories**.
+
+### Visualizations
+- Most Popular Category (Bar Chart)
+- Category Performance Summary
+- Key Business Takeaways
+- Executive Interpretation
 
 ### Key Insights
-- **Bengaluru** is the top-performing city (~₹5.5M)
-- **Lucknow, Hyderabad, Mumbai** contribute in the mid-tier range
-- **New Delhi** contributes the least among the top cities
+- **Recommended category dominates total sales**
+- Main Course and Burgers contribute moderate revenue
+- Desserts and Burger Combos contribute the least
 
-### Business Insight
-Revenue shows **strong concentration in a few metropolitan cities**.
+### Purpose
+Helps identify **top-performing food categories and opportunities for product expansion**.
 
 ---
 
-## 4️⃣ Category Performance
+## 4️⃣ Location Performance Dashboard
 
-Breakdown of revenue by **food category**.
+Analyzes **regional demand patterns based on order count and revenue**.
+
+### Visualizations
+- High Demand Regions by Order Count
+- Low Demand Regions by Order Count
+- Top 5 Cities by Order Value
+- Bottom 5 Cities by Order Value
 
 ### Key Insights
-- **Recommended category dominates (~74% of sales)**
-- **Main Course and Burgers** contribute moderate revenue
-- **Burger Combos and Desserts** contribute the least
+- Certain locations generate **significantly higher order volumes**
+- Several regions contribute **very low demand**
+- Revenue distribution varies significantly across cities
 
-### Business Insight
-Revenue mix is **highly concentrated in one category**, indicating an opportunity to diversify product offerings.
-
----
-
-## 5️⃣ Location Performance
-
-Identifies **high-demand and low-demand regions based on order count**.
-
-### High Demand Areas
-- Yelahanka
-- Gomti Nagar
-- Whitefield
-- Nerul
-- Thakurpukur
-
-### Low Demand Areas
-- Ashiyana Rd
-- Patliputra
-- Bohri Kadal
-- Faridabad
-- Sector 109
-
-### Business Insight
-Helps identify **high-performing regions and underperforming locations requiring improvement**.
+### Purpose
+Helps businesses **identify strong markets and underperforming regions** for targeted strategies.
 
 ---
 
-## 6️⃣ Outlet Performance
+## 5️⃣ Outlet Performance Dashboard
 
-Additional analysis sheet covering outlet-level performance.
+Analyzes **outlet-level revenue and rating performance**.
 
-### Analysis Includes
-- 🏆 **Highest revenue generating outlets**
-- 📉 **Lowest revenue generating outlets**
-- ⭐ **Highest rated outlets**
-- ⚠️ **Lowest rated outlets**
+### Visualizations
+- Highest Revenue Generating Outlets
+- Lowest Revenue Generating Outlets
+- Highest Rated Outlets
+- Lowest Rated Outlets
 
-### Business Insight
-Identifies **top-performing outlets and service quality improvement opportunities**.
+### Purpose
+Helps identify:
+- **Top-performing outlets**
+- **Underperforming outlets**
+- **Customer satisfaction levels**
 
----
+This information can support **operational improvements and performance monitoring**.
 
 # 🛠 Tools Used
 
