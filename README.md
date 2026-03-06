@@ -50,9 +50,12 @@ Helps stakeholders quickly understand the **overall performance and key revenue 
 ---
 
 ## 2️⃣ Summary Dashboard
-![](Dashboard/Summary Page 1.png)
-![]()
-![]()
+*Summary Page 1*
+![](Dashboard/Summary%20Page%201.png)
+*Summary Page 2*
+![](Dashboard/Summary%20Page%202.png)
+*Summary Page 3*
+![](Dashboard/Summary%20Pagee%203.png)
 
 This page focuses on **revenue performance and executive insights**.
 
@@ -71,29 +74,11 @@ This page focuses on **revenue performance and executive insights**.
 ### Purpose
 Provides **business-level interpretation of sales performance** to support strategic decision-making.
 
----
-
-## 3️⃣ Category Performance Dashboard
-
-Analyzes **revenue contribution by food categories**.
-
-### Visualizations
-- Most Popular Category (Bar Chart)
-- Category Performance Summary
-- Key Business Takeaways
-- Executive Interpretation
-
-### Key Insights
-- **Recommended category dominates total sales**
-- Main Course and Burgers contribute moderate revenue
-- Desserts and Burger Combos contribute the least
-
-### Purpose
-Helps identify **top-performing food categories and opportunities for product expansion**.
 
 ---
 
-## 4️⃣ Location Performance Dashboard
+## 3️⃣ Location Performance Dashboard
+![](Dashboard/Location%20Performance.png)
 
 Analyzes **regional demand patterns based on order count and revenue**.
 
@@ -113,7 +98,8 @@ Helps businesses **identify strong markets and underperforming regions** for tar
 
 ---
 
-## 5️⃣ Outlet Performance Dashboard
+## 4️⃣ Outlet Performance Dashboard
+![](Dashboard/Outlet%20Performance.png)
 
 Analyzes **outlet-level revenue and rating performance**.
 
