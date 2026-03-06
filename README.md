@@ -3,18 +3,6 @@
 ## 📷 Overview Dashboard
 ![Overview](Dashboard/Dashboard_.png)
 
-## Revenue Summary
-![Revenue](Images/revenue_summary.png)
-
-## City Performance
-![City](Images/city_performance.png)
-
-## Category Performance
-![Category](Images/category_performance.png)
-
-## Location Performance
-![Location](Images/location_performance.png)
-
 ## 🔎 Project Overview
 This project presents an **interactive Excel dashboard analyzing food delivery sales performance** across multiple business dimensions such as revenue trends, city contribution, food category performance, and location-level demand.
 
@@ -40,6 +28,7 @@ The dashboard helps answer key business questions:
 # 📈 Dashboard Pages
 
 ## 1️⃣ Overview Dashboard
+![Overview](Dashboard/Dashboard_.png)
 
 Provides a high-level snapshot of overall business performance.
 
