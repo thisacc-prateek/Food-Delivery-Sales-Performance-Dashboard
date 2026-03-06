@@ -63,7 +63,8 @@ Focuses on **monthly revenue analysis and performance trends**.
 
 ---
 
-## 3️⃣ City Performance Analysis
+## 3️⃣ Location Performance Analysis
+![Location Performance](Dashboard/Location%20Performance.png)
 
 Analyzes **revenue contribution across top cities**.
 
