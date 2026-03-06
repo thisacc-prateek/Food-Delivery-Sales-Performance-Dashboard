@@ -1,9 +1,7 @@
 # 📊 Food Delivery Sales & Performance Dashboard
 
-# 📷 Dashboard Preview
-
-## Overview Dashboard
-![Overview](Images/overview.png)
+## 📷 Overview Dashboard
+![Overview](Dashboard/Dashboard_.png)
 
 ## Revenue Summary
 ![Revenue](Images/revenue_summary.png)
