@@ -50,6 +50,9 @@ Helps stakeholders quickly understand the **overall performance and key revenue 
 ---
 
 ## 2️⃣ Summary Dashboard
+![](Dashboard/Summary Page 1.png)
+![]()
+![]()
 
 This page focuses on **revenue performance and executive insights**.
 
