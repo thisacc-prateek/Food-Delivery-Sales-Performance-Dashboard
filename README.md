@@ -28,7 +28,7 @@ The dashboard helps answer key business questions:
 # 📈 Dashboard Pages
 
 ## 1️⃣ Overview Dashboard
-
+![](Dashboard/Dashboard_.png)
 
 Provides a high-level snapshot of overall business performance.
 
